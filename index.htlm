@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Carla Bonvicini</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="libro.html">Il libro</a>
+        <a href="chisono.html">Chi sono</a>
+        <a href="eventi.html">Eventi</a>
+        <a href="contatti.html">Contatti</a>
+    </nav>
+</header>
+
+<div class="hero">
+    <h1>Racconto ciò che accade quando si resta.</h1>
+    <p class="subtitle">L’intimo. I passaggi interiori. Le trasformazioni silenziose.</p>
+    <p>Carla Bonvicini, narratrice dell’intimo</p>
+    <a href="libro.html" class="button">Scopri il libro</a>
+</div>
+
+<div class="container">
+
+    <div class="section">
+        <h2>Un caffè alla volta</h2>
+        <p>Un memoir ambientato tra i portici di Bologna. Una breve esperienza dietro al bancone di un bar diventa attraversamento, ascolto, trasformazione.</p>
+    </div>
+
+    <div class="section">
+        <h2>Incontri</h2>
+        <p>Roma – 11 marzo – Casa Internazionale delle Donne</p>
+        <p>Rimini – 6 marzo – Cineteca Comunale Gambalunga</p>
+    </div>
+
+</div>
+
+<footer>
+    © Carla Bonvicini
+</footer>
+
+</body>
+</html>
