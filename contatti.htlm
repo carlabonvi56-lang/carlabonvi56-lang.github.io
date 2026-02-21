@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Contatti</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="libro.html">Il libro</a>
+        <a href="chisono.html">Chi sono</a>
+        <a href="eventi.html">Eventi</a>
+        <a href="contatti.html">Contatti</a>
+    </nav>
+</header>
+
+<div class="container">
+
+<h1>Contatti</h1>
+
+<p>Email: tuaemail@email.com</p>
+<p>Instagram: @carla.bonvicini</p>
+<p>TikTok: @carla.bonvicini</p>
+
+</div>
+
+<footer>
+    © Carla Bonvicini
+</footer>
+
+</body>
+</html>
