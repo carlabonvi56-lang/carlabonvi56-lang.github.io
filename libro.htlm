@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Un caffè alla volta</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="libro.html">Il libro</a>
+        <a href="chisono.html">Chi sono</a>
+        <a href="eventi.html">Eventi</a>
+        <a href="contatti.html">Contatti</a>
+    </nav>
+</header>
+
+<div class="container">
+
+<h1>Un caffè alla volta</h1>
+
+<p>Un memoir ambientato tra i portici di Bologna. Tra tazzine fumanti e silenzi condivisi, una donna attraversa un momento di cambiamento e scopre che la trasformazione non sempre fa rumore.</p>
+
+<h2>Estratto</h2>
+<p>“Il primo caffè del mattino non era per i clienti. Era per ricordarmi che c’ero anch’io.”</p>
+
+</div>
+
+<footer>
+    © Carla Bonvicini
+</footer>
+
+</body>
+</html>
