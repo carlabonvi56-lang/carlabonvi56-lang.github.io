@@ -92,3 +92,11 @@ footer {
   display: block;
   margin: 18px 0 18px 0;
 } 
+
+.book-cover{
+  width: 260px;
+  max-width: 70%;
+  border-radius: 14px;
+  display: block;
+  margin: 18px 0 18px 0;
+}
