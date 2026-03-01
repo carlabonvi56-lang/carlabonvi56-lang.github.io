@@ -110,3 +110,14 @@ footer {
 .event h2{
   margin: 0 0 6px 0;
 }
+
+.press {
+  margin: 40px 0;
+}
+
+.divider {
+  width: 60px;
+  height: 1px;
+  background-color: #b5a98f; /* tono caldo, armonico */
+  margin: 30px auto;
+}
